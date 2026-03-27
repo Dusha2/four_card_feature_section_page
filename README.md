@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.comhttps://www.frontendmentor.io/solutions/responsive-four-card-section-flexbox-css-variables-and-a11y-CR2aaYQIpp)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-four-card-section-flexbox-css-variables-and-a11y-CR2aaYQIpp)
 - Live Site URL: [Add live site URL here](https://dusha2.github.io/four_card_feature_section_page/)
 
 ## My process
