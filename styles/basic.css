@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+*:not(dialog) {
+    margin: 0;
+}
+
+body {
+    color: var(--color-text-main);
+    background-color: var(--bg-color);
+    font-family: var(--font-family-main);
+    line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 600;
+}
+
+p {
+   opacity: 0.8;
+}
+
+.container {
+    padding-inline: 12px;
+}
+
+.visually-hidden {
+    visibility: hidden;
+}

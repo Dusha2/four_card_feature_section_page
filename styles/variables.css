@@ -1,0 +1,18 @@
+:root {
+    --color-white: #fff;
+    --color-red: #EA5454;
+    --color-green: #44D3D2;
+    --color-blue: #549EF2;
+    --color-yellow: #FCAE4A;
+    --color-text-main: #4D4F62;
+    
+    --bg-color: #FAFAFA;
+
+    --font-family-main: "Poppins", sans-serif;
+
+}
+
+::selection {
+    background-color: var(--color-text-main);
+    color: var(--bg-color);
+}
